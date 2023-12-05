@@ -17,8 +17,6 @@ C++
 ## Contributors:
 Raj Indroju, Sai Krishna Reddy Kandhadi, Pratyush Reddy Gaggenapalli
 
-## Github URL: 
-https://github.com/PratyushGR/Network_science_final_project.git
 
 # Input DataSets: 
 
