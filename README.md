@@ -1,4 +1,4 @@
-# Ego-Splitting-Framework-in-C-
+# Ego-Splitting-Framework-in-C++
 
 ## Project:
 Ego-splitting Framework in C++
